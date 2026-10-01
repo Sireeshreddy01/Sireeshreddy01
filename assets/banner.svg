@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Sireesh's Kingdom of Code</title><desc id="desc">A purple and cyan game-inspired banner with a castle, stars, and Sireesh's name.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1023"/><stop offset="1" stop-color="#21123d"/></linearGradient><linearGradient id="accent"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a78bfa" stroke-opacity=".08"/></pattern></defs>
+<rect width="1200" height="340" rx="24" fill="url(#bg)"/><rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+<rect x="24" y="24" width="1152" height="292" rx="16" fill="none" stroke="#a78bfa" stroke-opacity=".3"/>
+<g fill="#22d3ee"><rect x="66" y="63" width="5" height="5"/><rect x="534" y="56" width="5" height="5"/><rect x="702" y="270" width="5" height="5"/><rect x="1127" y="89" width="5" height="5"/></g>
+<text x="76" y="92" fill="#22d3ee" font-family="monospace" font-size="16" letter-spacing="4">PLAYER ONE HAS ENTERED</text>
+<text x="72" y="170" fill="url(#accent)" font-family="Arial, sans-serif" font-weight="700" font-size="76">SIREESH</text>
+<text x="76" y="213" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="24">Operations leader. Full stack developer.</text>
+<rect x="76" y="244" width="212" height="36" rx="7" fill="#7c3aed"/><text x="94" y="268" fill="white" font-family="monospace" font-size="15">BUILD / SHIP / REPEAT</text>
+<g transform="translate(832 82)" fill="#302450" stroke="#a78bfa" stroke-width="3"><path d="M0 190V46H20V64H42V46H62V190ZM142 190V46H162V64H184V46H204V190ZM62 190V98H142V190Z"/><path d="M84 190V148Q102 118 120 148V190" fill="#0b1023"/><path d="M26 96H38V123H26ZM168 96H180V123H168Z" fill="#22d3ee" stroke="none"/><path d="M62 98L102 52L142 98Z" fill="#7c3aed"/><path d="M102 52V6"/><path d="M104 6H154L135 21H104Z" fill="#22d3ee" stroke="none"/></g>
+<path d="M804 278H1065" stroke="#22d3ee" stroke-width="3"/><text x="855" y="303" fill="#a78bfa" font-family="monospace" font-size="12" letter-spacing="2">KINGDOM OF CODE</text>
+</svg>
